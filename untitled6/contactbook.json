@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "name": "vova",
+      "phoneNumber": "0976305981",
+      "email": "vova@Gmail.com",
+      "dateOfBirth": "11-21-3133"
+    },
+    {
+      "name": "vana",
+      "phoneNumber": "0989382761",
+      "email": "vana@Gmail.com",
+      "dateOfBirth": "21-38-2021"
+    }
+  ]
+}
